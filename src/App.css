@@ -10,10 +10,6 @@ th {
     padding: 5px;
 }
 
-html,
-body {
-    height: 100%;
-}
 
 .App {
     display: flex;
@@ -27,7 +23,7 @@ body {
 }
 
 .form-data {
-    border: solid;
+    border: 2px solid black;
     padding: 30px;
     margin-bottom: 20px;
 
