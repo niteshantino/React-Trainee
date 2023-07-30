@@ -21,10 +21,28 @@ body {
     align-items: center;
     width: 100vw;
     height: 100vh;
+    text-align: center;
+    background-color: rgb(192, 207, 202);
+    font-size: 20px;
 }
 
 .form-data {
     border: solid;
     padding: 30px;
+    margin-bottom: 20px;
 
+}
+
+label,
+input,
+select {
+    margin: 8px;
+    padding: 5px;
+
+}
+
+button {
+    padding: 5px;
+    border-radius: 9px;
+    font-weight: bold;
 }

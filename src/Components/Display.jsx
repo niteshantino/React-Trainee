@@ -7,7 +7,7 @@ const Display = ({ formData }) => {
 
     return (
         <div className='display-data'>
-            <h2>Display Data</h2>
+            <h1>Display Data</h1>
             <table>
                 <thead>
                     <tr>
