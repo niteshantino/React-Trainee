@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+table,
+td,
+th {
+    border: 1px solid black;
+    padding: 5px;
+}
+
+html,
+body {
+    height: 100%;
+}
+
+.App {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+}
+
+.form-data {
+    border: solid;
+    padding: 30px;
+
+}
